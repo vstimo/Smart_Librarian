@@ -80,4 +80,4 @@ The app is deployed on Azure and available at:
 **Frontend:**  
 [https://smartlib-frontend.wittywater-a44e9806.germanywestcentral.azurecontainerapps.io](https://smartlib-frontend.wittywater-a44e9806.germanywestcentral.azurecontainerapps.io)
 
-I used free credit based on my student account, which will last for 30 days. So in case is not available when you click on it run it locally:)
+I used free credit based on my student account, which will last for 30 days. So in case is not available when you click on it, run it locally:)
