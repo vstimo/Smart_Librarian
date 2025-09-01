@@ -1,0 +1,9 @@
+# .dockerignore
+.git
+__pycache__/
+*.pyc
+venv/
+node_modules/
+smart-librarian-ui/node_modules/
+.chroma_db/
+dist/

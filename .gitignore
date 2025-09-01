@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.venv/
+venv/
+.env
+
+deploy-frontend.ps1
+deploy-smartlib.ps1
+
+# Node/React
+smart-librarian-ui/node_modules/
+smart-librarian-ui/dist/
+smart-librarian-ui/.env
+
+# VSCode
+.vscode/
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# OS files
+.DS_Store
+Thumbs.db
