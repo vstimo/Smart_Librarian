@@ -38,8 +38,6 @@ LLM HW/
 │   └── Dockerfile
 │
 ├── docker-compose.yml        # For local development
-├── deploy-smartlib.ps1       # Azure backend deploy script
-├── deploy-frontend.ps1       # Azure frontend deploy script
 └── README.md
 ```
 
